@@ -1,5 +1,5 @@
-Title:   Installation of Ruby
-Summary: Installation of Ruby on various platforms
+Title:   Hello World
+Summary: Simple Hello World script in Ruby
 Authors: Somsubhra Bairi
 
 [< Back: Installation](installation)
