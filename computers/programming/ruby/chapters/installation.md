@@ -25,14 +25,14 @@ Ruby comes pre-installed on many Linux distibutions.
 
 ```
 :::bash
-sudo apt-get install ruby 
+$ sudo apt-get install ruby 
 ```
 
 * Using yum you can install it by using the following command:
 
 ```
 :::bash
-sudo yum install ruby
+$ sudo yum install ruby
 ```
 
 * You can also download the latest of Ruby [here](https://www.ruby-lang.org/en/downloads/) and follow the installation instructions mentioned in the site.
